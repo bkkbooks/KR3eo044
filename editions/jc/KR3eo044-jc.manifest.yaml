@@ -1,0 +1,210 @@
+canonical_identifier: bkk:krp/KR3eo044/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo044/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 飲食須知
+  identifiers:
+    krp: KR3eo044
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo044.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo044_000-jc.yaml, hash: 'sha256:08ca3dc342484a92e43f56ca92985b308159151e6a965f4d2adfbc843b080020'}
+  - {seq: 1, filename: KR3eo044_001-jc.yaml, hash: 'sha256:7581b474263025287041761392075d121551b32ca8b36889c631750dc60d2450'}
+  - {seq: 2, filename: KR3eo044_002-jc.yaml, hash: 'sha256:8e6c2127157a9485ce10285d520084b9b6d3f34b19caf945a3f9508e71fda0a9'}
+  - {seq: 3, filename: KR3eo044_003-jc.yaml, hash: 'sha256:1e5ae86356690e9d2f3113aa926afb972d198fedd4af5b7f429fb5815436850d'}
+  - {seq: 4, filename: KR3eo044_004-jc.yaml, hash: 'sha256:43cb0f4983a58757e13c4ccd6874bcec958f5c84d5cb73c4418223a57b8c4617'}
+  - {seq: 5, filename: KR3eo044_005-jc.yaml, hash: 'sha256:194785cbab048d7910835743587661d1ca86d508e9ef3d86761a76b220e91877'}
+  - {seq: 6, filename: KR3eo044_006-jc.yaml, hash: 'sha256:881b441791a34ddd306ae8177df5475a950e79eae562c8d1f235080876ecbd2a'}
+  - {seq: 7, filename: KR3eo044_007-jc.yaml, hash: 'sha256:e9e05ace6f75c55f67c19e129030d702a4413985dd3708c717f377ce72c25209'}
+  - {seq: 8, filename: KR3eo044_008-jc.yaml, hash: 'sha256:3392f096633daeee0f0f7fd1b911df046473473b508a50f1d0a7822ace7f6d81'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo044_000-jc.markers.yaml, hash: 'sha256:1a66eaa545da2ca0957f12c11f8f51f978e5e05518b50446f63b61ce7c6a9b2a'}
+  - {seq: 1, role: markers, filename: assets/KR3eo044_001-jc.markers.yaml, hash: 'sha256:4149f85a4fa6754023f9603f91c9c757a706b441768d058d99db9993272a685d'}
+  - {seq: 2, role: markers, filename: assets/KR3eo044_002-jc.markers.yaml, hash: 'sha256:ddf74dad14294c570ade23f1d9d50a24fd4734177867cb3a69a66476dd1a401f'}
+  - {seq: 3, role: markers, filename: assets/KR3eo044_003-jc.markers.yaml, hash: 'sha256:1b72c988615b845d3052d73c985ebb4cc8c290360018cbafbbf36b238bad8d52'}
+  - {seq: 4, role: markers, filename: assets/KR3eo044_004-jc.markers.yaml, hash: 'sha256:36d3fe069f53dfce81924c9925983c4ea8f1c52ee6e4b3f061923968eec4e0f9'}
+  - {seq: 5, role: markers, filename: assets/KR3eo044_005-jc.markers.yaml, hash: 'sha256:6380323bc48e2ae8ba319bb0b7228c345d3e9d689508a16b333f52f8e675256a'}
+  - {seq: 6, role: markers, filename: assets/KR3eo044_006-jc.markers.yaml, hash: 'sha256:8c8d4b91bc4a8613284aa035b9ffa5d5ca2b19e5c9d294d5266c905cec2e8107'}
+  - {seq: 7, role: markers, filename: assets/KR3eo044_007-jc.markers.yaml, hash: 'sha256:15cdde49f0b49be281aa0f092e408c7ae3c3453ed9534c9e90d54273d1681843'}
+  - {seq: 8, role: markers, filename: assets/KR3eo044_008-jc.markers.yaml, hash: 'sha256:f2ff2901d7f840c53f822950b039f2d37f222a494b30ffe3289acc60a168f6d1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo044_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 94
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo044_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2452
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo044_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2452
+  label: 水火
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo044_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2049
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eo044_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 2049
+  label: 穀類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo044_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3977
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eo044_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 3977
+  label: 菜類
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eo044_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 3519
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eo044_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 3519
+  label: 果類
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eo044_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 2129
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eo044_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 2129
+  label: 味類
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eo044_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 3707
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eo044_jc_006-d8d2
+    span:
+    - body
+    - 2
+    - 3707
+  label: 魚類
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eo044_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 1618
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3eo044_jc_007-d9d2
+    span:
+    - body
+    - 2
+    - 1618
+  label: 禽類
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eo044_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 4685
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3eo044_jc_008-d10d2
+    span:
+    - body
+    - 2
+    - 4685
+  label: 獸類
+  type: section
+  level: 2
+hash: sha256:d075016ed4b562f696f9e3d1faf036ea7979c55011d3c679fb7d8562ab3b6363
